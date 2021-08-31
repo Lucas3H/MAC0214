@@ -2,7 +2,7 @@
 
 ## 20/8 - 5 horas + 4 horas de upsolving
 
-Fiz com meu time o contest [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest]()
+Fiz com meu time o contest [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest](https://codeforces.com/gym/102576) no Gym do Codeforces. É um contest mais difícil mesmo e passamos juntos 5 problemas, sendo que eu passei o B, ajudei a encontrar o erro do H, codei mas não consegui passar o I e o E. No upsolving consegui passar o A, C, E, F e codei mas não passei o J. Foi um bom upslving, pois aprendi um algoritmo de "prime counting" em Ô(n^2/3) pra fazer o A e fixei um pouco melhor a técnica de Slope Trick. Os códigos dos problemas estão na pasta Teams/jagiellonian20. 
 
 ## 21/8 - 3 horas
 
@@ -11,4 +11,9 @@ Fiz o contest [Codeforces Global Round 15](https://codeforces.com/contest/1552) 
 ## 23/8 - 2 horas
 
 Fiz o contest [Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)](https://codeforces.com/contest/1305) no Codeforces de 2 horas e 15min em que passei 5 problemas e após o término, li o editorial e passei mais um problema, que é o F. Para resolver ele, precisava de algumas observações probabilísticas e eu tenho uma certa dificuldade com esse tipo de problema.
+Os códigos dos problemas estão na pasta Codeforces/ozonTech20. 
+
+## 28/8 - 2 horas
+
+Fiz o contest [Codeforces Round #737 (Div. 2)](https://codeforces.com/contest/1557) no Codeforces de 2 horas em que passei 4 problemas e após o término, li o editorial e passei mais um problema, que é o E. Dava para ter resolvido ele, durante o contest, mas acabei me complicando muito no B que era fácil e perdi muito tempo.
 Os códigos dos problemas estão na pasta Codeforces/ozonTech20. 
