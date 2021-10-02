@@ -33,6 +33,8 @@ Os códigos dos problemas estão na pasta atCoder/beginner216.
 Fiz o contest [Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/1556) no Codeforces de 2 horas e 30 min em que passei 5 problemas e após o término, li o editorial e passei mais um problema, que é o F. Cheguei perto de resolver, tive as ideias corretas, mas não percebi a inclusão e exclusão, o que mataria o problema para mim.
 Os códigos dos problemas estão na pasta Codeforces/deltixSummer21. 
 
+Agosto: 31 horas
+
 ## 1/9 - 3 horas(2h15m + 45 de upsolving)
 
 Fiz o contest [Codeforces Round #730 (Div. 2)](https://codeforces.com/contest/1543) no Codeforces de 2 horas e 15 min em que passei 4 problemas e cheguei bem perto de resolver o quinto, mas acabei fazendo um monte de besteira na hora de ler o problema e não passei. Depois de um tempo, consegui consertar a solução no upsolving. Preciso ler com mais atenção os enunciados.
@@ -88,6 +90,8 @@ Fiz o contest [Codeforces Global Round 16](https://codeforces.com/contest/1375) 
 
 Fiz o contest [AtCoder Regular Contest 125](https://atcoder.jp/contests/arc125) no atCoder em que passei 4 problemas e passei mais 1 no upsolving(era muito bom, usava min-cut de um jeito bem esperto). Os códigos dos problemas estão na pasta atCoder/arc125. 
 
+Metade de setembro: 49 horas
+
 ## 17/9 - 8 horas(5h + 3h de upsolving)
 
 Fiz com meu time o contest [2020 ICPC Gran Premio de Mexico 3ra Fecha](https://codeforces.com/gym/102890) no Gym do Codeforces. Nosso desempenho foi razoável, sendo que nosso penalty foi bom. Passei os problemas C, D, K e M. E no upsolving passei o problema F, que era uma porcaria, pois essencialmente era deixar o brute rodando e enviar uma tabelona. Para rodar o brute, codei uns scripts em bash para paralelizar isso e ser mais rápido. Os código estão na pasta Team/mexico2020.
@@ -123,10 +127,12 @@ Fiz o contest [AtCoder Beginner Contest 220](https://atcoder.jp/contests/abc220)
 
 ## 27/9 - 3 horas(2h30 + 1h30 de upsolving)
 
-Fiz o contest [Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/1553) no Codeforces de 2 horas e 30 min em que passei 5 problemas e certamente dava para ter passado mais um, mas acabei lendo o enunciado errado. Os códigos estão na pasta Codeforces/harbour2021.
+Fiz o contest [Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/1553) no Codeforces de 2 horas e 30 min em que passei 5 problemas e certamente dava para ter passado mais um, mas acabei lendo o enunciado errado. Os códigos estão na pasta Codeforces/harbour20ls21.
+
+Fim de Setembro: 30 horas(Mais um contest a adicionar, pois não fiz o upsolving direito ainda)
 
 ## 2/10 - 2 horas
 
 Fiz o contest [AtCoder Beginner Contest 221](https://atcoder.jp/contests/abc221) no atCoder(ao vivo!) em que passei 6 problemas, mas não fui muit obem pois tomei muito penalty. Os códigos estão na pasta atCoder/beginner221.
 
-78 horas
+Total: 112 hroas
