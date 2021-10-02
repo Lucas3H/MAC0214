@@ -68,7 +68,9 @@ Fiz o contest [Codeforces Global Round 9](https://codeforces.com/contest/1375) n
 Fiz o contest [Educational Codeforces Round 113 (Rated for Div. 2)](https://codeforces.com/contest/1569) no Codeforces em que passei 4 problemas e no upsolving passei mais 1 problemas. Tive um resultado razoável, dado que o problema E era bem mais difícil que o D. O E era uma questão meet in the middle, o que não é muito convencional de cair.
 Os códigos dos problemas estão na pasta Codeforces/113edu. 
 
-##
+## 10/9 - 9 horas(5h + 4h de upsolving)
+
+Fiz com meu time o contest [The 2020 ICPC Asia Shenyang Regional Programming Contest](https://codeforces.com/gym/103202) no Gym do Codeforces. Nosso desempenho foi muito bom, sendo que ganhamos de diversos outros times que fizeram depois. Passei os problemas D, I e M. E no upsolving passei o problema E que realmente era mais difícil, mas talvez desse para ter passado. Os código estão na pasta Team/shenyang2020
 
 ## 11/9 - 2 horas(2h)
 
@@ -81,3 +83,50 @@ Fiz o contest [AtCoder Beginner Contest 218](https://atcoder.jp/contests/abc216)
 ## 12/9 - 4 horas(2h30 + 1h30 de upsolving)
 
 Fiz o contest [Codeforces Global Round 16](https://codeforces.com/contest/1375) no Codeforces(ao vivo!) de 2 horas e 30 min em que passei 6 problemas e tive um resultado mediano, no qual cometi muitos erros na E. No upsolving passei a F, a qual tive as mesmas ideias do editorial, mas minha escolha de implementação foi muito horrível, o que dificutou que eu enxergasse algunS erroS. Os códigos dos problemas estão na pasta Codeforces/GR16. 
+
+## 15/9 - 3 horas(2h + 1h de upsolving)
+
+Fiz o contest [AtCoder Regular Contest 125](https://atcoder.jp/contests/arc125) no atCoder em que passei 4 problemas e passei mais 1 no upsolving(era muito bom, usava min-cut de um jeito bem esperto). Os códigos dos problemas estão na pasta atCoder/arc125. 
+
+## 17/9 - 8 horas(5h + 3h de upsolving)
+
+Fiz com meu time o contest [2020 ICPC Gran Premio de Mexico 3ra Fecha](https://codeforces.com/gym/102890) no Gym do Codeforces. Nosso desempenho foi razoável, sendo que nosso penalty foi bom. Passei os problemas C, D, K e M. E no upsolving passei o problema F, que era uma porcaria, pois essencialmente era deixar o brute rodando e enviar uma tabelona. Para rodar o brute, codei uns scripts em bash para paralelizar isso e ser mais rápido. Os código estão na pasta Team/mexico2020.
+
+## 18/9 - 3 horas(2h + 1h no upsolving)
+
+Fiz o contest [AtCoder Beginner Contest 219](https://atcoder.jp/contests/abc219) no atCoder(ao vivo!) em que passei 5 problemas. Fiz um monte de besteira na F e não passei ela na hora, mas passei no upsolving, e a G era bem difícil mesmo e só passei depois no upsolving pois vi o editorial. Os códigos estão na pasta atCoder/beginner219.
+
+## 18/9 - 4 horas(2h + 2h de upsolving)
+
+Fiz o contest [Codeforces Round #743 (Div. 1)](https://codeforces.com/contest/1572) no Codeforces de 2 horas e fiz pra valer, mas felizmente ele foi unrated, pois fiz apenas 1 problema(dava para ter feito 2, mas acabei me enrolando no B). Os códigos dos problemas estão na pasta Codeforces/743div1
+
+## 19/9 - 2 horas
+
+Fiz o contest [AtCoder Regular Contest 126](https://atcoder.jp/contests/arc126) no atCoder(ao vivo!) em que passei 4 problemas. Os códigos dos problemas estão na pasta atCoder/arc126. 
+
+## 20/9 - 2 horas(2h)
+
+Fiz o contest [Educational Codeforces Round 114 (Rated for Div. 2)](https://codeforces.com/contest/1574) no Codeforces em que passei 5 problemas, sendo que 1 deles era bem difícil. Dava para ter tomado menos penalty, mas no geral fui bem.
+Os códigos dos problemas estão na pasta Codeforces/114edu. 
+
+## 21/9 - 3 horas(2h + 1h de upsolving)
+
+Fiz o contest [Codeforces Round #741 (Div. 1)](https://codeforces.com/contest/1562) no Codeforces de 2 horas em que passei 5 problemas. No geral fui bem, mas certamente dava para ter passado mais uma que passei no upsolving. Os códigos estão na pasta Codeforces/741div1.
+
+## 25/9 - 2 horas
+
+Fiz o contest [AtCoder Regular Contest 127](https://atcoder.jp/contests/arc127) no atCoder(ao vivo!) em que passei somente 2 problemas e fui bem mal. Os códigos dos problemas estão na pasta atCoder/arc127. 
+
+## 26/9 - 3 horas(2h + 1h no upsolving)
+
+Fiz o contest [AtCoder Beginner Contest 220](https://atcoder.jp/contests/abc220) no atCoder(ao vivo!) em que passei 6 problemas. Fiz um monte de besteira na G e não passei ela na hora, mas passei no upsolving. Os códigos estão na pasta atCoder/beginner220.
+
+## 27/9 - 3 horas(2h30 + 1h30 de upsolving)
+
+Fiz o contest [Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/1553) no Codeforces de 2 horas e 30 min em que passei 5 problemas e certamente dava para ter passado mais um, mas acabei lendo o enunciado errado. Os códigos estão na pasta Codeforces/harbour2021.
+
+## 2/10 - 2 horas
+
+Fiz o contest [AtCoder Beginner Contest 221](https://atcoder.jp/contests/abc221) no atCoder(ao vivo!) em que passei 6 problemas, mas não fui muit obem pois tomei muito penalty. Os códigos estão na pasta atCoder/beginner221.
+
+78 horas
