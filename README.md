@@ -119,7 +119,7 @@ Fiz o contest [Codeforces Round #741 (Div. 1)](https://codeforces.com/contest/15
 
 ## 24/9 - 10 horas(5h + 5h de upsolving)
 
-Fiz com meu time o contest [2017-2018 Northwestern European Regional Contest (NWERC 2017)](https://codeforces.com/gym/101623) no Gym do Codeforces. Fizemos 7 problemas no total e nosso desempenho foi mediano. Os códigos estão na pasta Team/nwerc17.
+Fiz com meu time o contest [2017-2018 Northwestern European Regional Contest (NWERC 2017)](https://codeforces.com/gym/101623) no Gym do Codeforces. Fizemos 7 problemas no total e nosso desempenho foi mediano e passei mais um problema no upsolving. Os códigos estão na pasta Team/nwerc17.	
 
 ## 25/9 - 2 horas
 
@@ -135,8 +135,16 @@ Fiz o contest [Harbour.Space Scholarship Contest 2021-2022 (open for everyone, r
 
 Fim de Setembro: 30 horas(Mais um contest a adicionar, pois não fiz o upsolving direito ainda)
 
+## 1/10 - 10 horas(5h + 5h de upsolving)
+
+Fiz com meu time o contest [2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Retired Dandelion Contest (XXI Opencup, Grand Prix of Nizhny Novgorod)](https://codeforces.com/gym/103260) no Gym do Codeforces. Fizemos 5 problemas no total e nosso desempenho foi mediano, até porque a prova é bem difícil, e passei mais 2 problemas no upsolving. Os códigos estão na pasta Team/petrozavodsk2020.	
+
 ## 2/10 - 2 horas
 
 Fiz o contest [AtCoder Beginner Contest 221](https://atcoder.jp/contests/abc221) no atCoder(ao vivo!) em que passei 6 problemas, mas não fui muit obem pois tomei muito penalty. Os códigos estão na pasta atCoder/beginner221.
+
+## 8/10 - 8 horas(5h + 3h de upsolving)
+
+Fiz com meu time o contest [2014, VII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/100460) no Gym do Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom até. Os códigos estão na pasta Team/samara14.	
 
 Total: 112 hroas
