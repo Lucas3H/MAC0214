@@ -117,6 +117,10 @@ Os códigos dos problemas estão na pasta Codeforces/114edu.
 
 Fiz o contest [Codeforces Round #741 (Div. 1)](https://codeforces.com/contest/1562) no Codeforces de 2 horas em que passei 5 problemas. No geral fui bem, mas certamente dava para ter passado mais uma que passei no upsolving. Os códigos estão na pasta Codeforces/741div1.
 
+## 24/9 - 10 horas(5h + 5h de upsolving)
+
+Fiz com meu time o contest [2017-2018 Northwestern European Regional Contest (NWERC 2017)](https://codeforces.com/gym/101623) no Gym do Codeforces. Fizemos 7 problemas no total e nosso desempenho foi mediano. Os códigos estão na pasta Team/nwerc17.
+
 ## 25/9 - 2 horas
 
 Fiz o contest [AtCoder Regular Contest 127](https://atcoder.jp/contests/arc127) no atCoder(ao vivo!) em que passei somente 2 problemas e fui bem mal. Os códigos dos problemas estão na pasta atCoder/arc127. 
