@@ -147,4 +147,20 @@ Fiz o contest [AtCoder Beginner Contest 221](https://atcoder.jp/contests/abc221)
 
 Fiz com meu time o contest [2014, VII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/100460) no Gym do Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom até. Os códigos estão na pasta Team/samara14.	
 
+## 15/10 - 10 horas(5h + 5h de upsolving)
+
+Fiz com meu time o contest [2020-2021 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/group/5jHvDMn9r4/contest/349244) no grupo do MaratonUSP do Codeforces. Fizemos 13 problemas no total e nosso desempenho foi bom até e passei mais 2 problemas depois. Os códigos estão na pasta Team/pacific20-21.	
+
+## 22/10 - 10 horas(5h + 5h de upsolving)
+
+Fiz com meu time o contest [2020 ACM-ICPC Nordic Collegiate Programming Contest](https://codeforces.com/group/5jHvDMn9r4/contest/350354/standings/groupmates/true) no grupo do MaratonUSP do Codeforces. Fizemos 8 problemas no total e nosso desempenho foi mediano e passei mais 2 problemas depois. Os códigos estão na pasta Team/nordic20.	
+
+## 24/10 - 10 horas(5h + 5h de upsolving)
+
+Fiz um mashup com o meu o Morete o contest [2021 ICPC Gran Premio de Mexico 1ra Fecha](https://codeforces.com/gym/103274) no Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom(dado que fomos nós dois apenas) e passei mais 1 problema depois. Os códigos estão na pasta Team/mexico1f-21.	
+
+## 28/10 - 7 horas(5h + 2h de upsolving)
+
+Solei o contest [2021 ICPC Gran Premio de Mexico 2da Fecha](https://codeforces.com/gym/103306) no Codeforces. Passei 9 problemas e meu desempenho foi muito bom, dado que fiz sozinho, e depois passei mais 1 no upsolving.
+
 Total: 112 hroas
