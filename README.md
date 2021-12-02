@@ -163,4 +163,9 @@ Fiz um mashup com o meu o Morete o contest [2021 ICPC Gran Premio de Mexico 1ra 
 
 Solei o contest [2021 ICPC Gran Premio de Mexico 2da Fecha](https://codeforces.com/gym/103306) no Codeforces. Passei 9 problemas e meu desempenho foi muito bom, dado que fiz sozinho, e depois passei mais 1 no upsolving.
 
+## 30/10 - 10 horas(5h + 5h de upsolving)
+
+Fiz com meu time a Subregional de 2021. Fizemos 8 problemas no total e nosso desempenho foi mediano(podia ser muito melhor) e passei mais 1 problema depois. Ademais, nós discutimos as soluções de quase todos os outros problemas. Os códigos estão na pasta Team/subreg21.	
+
+
 Total: 112 hroas
