@@ -168,4 +168,12 @@ Solei o contest [2021 ICPC Gran Premio de Mexico 2da Fecha](https://codeforces.c
 Fiz com meu time a Subregional de 2021. Fizemos 8 problemas no total e nosso desempenho foi mediano(podia ser muito melhor) e passei mais 1 problema depois. Ademais, nós discutimos as soluções de quase todos os outros problemas. Os códigos estão na pasta Team/subreg21.	
 
 
+## 5/11 - 7 horas(5h + 2h de upsolving)
+
+Fiz um mashup com o Nathan e o Gustavo[La Salle-Pui Ching Programming Challenge 培正喇沙編程挑戰賽 2017](https://codeforces.com/gym/101522/). Fizemos 11 problemas no total e nosso desempenho foi muito bom. Após a prova, discutimos as soluções com a outra galera que também fez a prova junto. Os códigos estão na pasta Team/la-salle-pui17.	
+
+## 12/11 - 10 horas(5h + 5h de upsolving)
+
+Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Prix of Krakow no opentrains. É um contest bastante difícil e nosso desempenho foi razoável, sendo que poderia ter sido bem melhor. Fizemos 6 problemas antes da prova e depois fiz passei mais 2, além de ter discutido e entendido a solução de outros 2. Os códigos estão na pasta Team/
+
 Total: 112 hroas
