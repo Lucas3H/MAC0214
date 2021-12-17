@@ -1,6 +1,6 @@
 # MAC 0214 - Relatório de Atividades
 
-## 20/8 - 9 horas(5 horas + 4 horas de upsolving)
+## 20/8 - 9 horas(5h + 4h de upsolving)
 
 Fiz com meu time o contest [2020 Petrozavodsk Winter Camp, Jagiellonian U Contest](https://codeforces.com/gym/102576) no Gym do Codeforces. É um contest mais difícil mesmo e passamos juntos 5 problemas, sendo que eu passei o B, ajudei a encontrar o erro do H, codei mas não consegui passar o I e o E. No upsolving consegui passar o A, C, E, F e codei mas não passei o J. Foi um bom upslving, pois aprendi um algoritmo de "prime counting" em Ô(n^2/3) pra fazer o A e fixei um pouco melhor a técnica de Slope Trick. Os códigos dos problemas estão na pasta Teams/jagiellonian20. 
 
@@ -189,6 +189,4 @@ Fiz com meu time o contest [2020-2021 ICPC Southeastern European Regional Progra
 Fiz com meu time o contest [2014-2015 ACM-ICPC Southwestern Europe Regional Contest (SWERC 14) ](https://codeforces.com/gym/103102) no Codeforces. Era um contest mais tranquilo, sendo que passamos 9 problemas e poderíamos ter fechado a prova. Depois passei no upsolving esse problema extra. Os problemas estão na pasta Team/swerc14
 
 
-
-
-Total: 112 horas
+Total: 234 horas
