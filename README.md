@@ -157,7 +157,7 @@ Fiz com meu time o contest [2020 ACM-ICPC Nordic Collegiate Programming Contest]
 
 ## 24/10 - 10 horas(5h + 5h de upsolving)
 
-Fiz um mashup com o meu o Morete o contest [2021 ICPC Gran Premio de Mexico 1ra Fecha](https://codeforces.com/gym/103274) no Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom(dado que fomos nós dois apenas) e passei mais 1 problema depois. Os códigos estão na pasta Team/mexico1f-21.	
+Fiz com o Morete o contest [2021 ICPC Gran Premio de Mexico 1ra Fecha](https://codeforces.com/gym/103274) no Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom(dado que fomos nós dois apenas) e passei mais 1 problema depois. Os códigos estão na pasta Team/mexico1f-21.	
 
 ## 28/10 - 7 horas(5h + 2h de upsolving)
 
@@ -174,6 +174,21 @@ Fiz um mashup com o Nathan e o Gustavo[La Salle-Pui Ching Programming Challenge 
 
 ## 12/11 - 10 horas(5h + 5h de upsolving)
 
-Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Prix of Krakow no opentrains. É um contest bastante difícil e nosso desempenho foi razoável, sendo que poderia ter sido bem melhor. Fizemos 6 problemas antes da prova e depois fiz passei mais 2, além de ter discutido e entendido a solução de outros 2. Os códigos estão na pasta Team/
+Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Prix of Krakow no opentrains. É um contest bastante difícil e nosso desempenho foi razoável, sendo que poderia ter sido bem melhor. Fizemos 6 problemas antes da prova e depois passei mais 2, além de ter discutido e entendido a solução de outros 2. Os códigos estão na pasta Team/opencupKrakow
 
-Total: 112 hroas
+## 19/11 - 10 horas(5h + 5h de upsolving)
+
+Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Prix of Krakow no opentrains. Também é um contest bastante difícil e nosso desempenho foi razoável, sendo que poderia ter sido bem melhor. Fizemos 6 problemas antes da prova e depois fiz passei mais 3, além de ter discutido e entendido a solução de outros 2. Os códigos estão na pasta Team/nanjing21
+
+## 26/11 - 10 horas(5h + 5h de upsolving)
+
+Fiz com meu time o contest [2020-2021 ICPC Southeastern European Regional Programming Contest (SEERC 2020) ](https://codeforces.com/gym/103102) no Codeforces. Era um contest bem difícil e passamos 5 problemas no contest e depois passei mais 4 no upsolving. Os códigos estão na pasta Team/seerc20
+
+## 3/12 - 10 horas(5h + 5h de upsolving)
+
+Fiz com meu time o contest [2014-2015 ACM-ICPC Southwestern Europe Regional Contest (SWERC 14) ](https://codeforces.com/gym/103102) no Codeforces. Era um contest mais tranquilo, sendo que passamos 9 problemas e poderíamos ter fechado a prova. Depois passei no upsolving esse problema extra. Os problemas estão na pasta Team/swerc14
+
+
+
+
+Total: 112 horas
