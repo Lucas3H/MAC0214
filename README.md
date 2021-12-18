@@ -233,7 +233,7 @@ Fiz o contest [AtCoder Regular Contest 130](https://atcoder.jp/contests/arc130) 
 
 ## 1/12 - 2 horas
 
-Simulei o contest [AtCoder Gran Contest 55](https://atcoder.jp/contests/agc55) em que passei somente 2 problemas e foi razoável.
+Simulei o contest [AtCoder Gran Contest 55](https://atcoder.jp/contests/agc55) em que passei somente 2 problemas e foi razoável o meu desempenho.
 
 ## 2/12 - 2 horas
 
