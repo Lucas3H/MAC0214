@@ -156,6 +156,10 @@ Simulei o contest [AtCoder Regular Contest 124](https://atcoder.jp/contests/arc1
 
 Simulei o contest Codeforces Round #451 (Div. 1) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/745div1
 
+## 7/10 - 2 horas
+
+Simulei o contest Grakn Forces 2020 no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/graknforces2020
+
 ## 8/10 - 8 horas(5h + 3h de upsolving)
 
 Fiz com meu time o contest [2014, VII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/100460) no Gym do Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom até. Os códigos estão na pasta Team/samara14.	
@@ -173,9 +177,17 @@ Simulei o contest Codeforces Round #747 (Div. 2) no Codeforces de 2 horas. Os c�
 
 Simulei o contest [AtCoder Regular Contest 123](https://atcoder.jp/contests/arc123).
 
+## 14/10 - 2 horas
+
+Simulei o contest Codeforces Round #733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine)) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/VKCup2021
+
 ## 15/10 - 10 horas(5h + 5h de upsolving)
 
 Fiz com meu time o contest [2020-2021 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/group/5jHvDMn9r4/contest/349244) no grupo do MaratonUSP do Codeforces. Fizemos 13 problemas no total e nosso desempenho foi bom até e passei mais 2 problemas depois. Os códigos estão na pasta Team/pacific20-21.	
+
+## 18/10 - 2 horas
+
+Simulei o contest Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/TechnoCupR1
 
 ## 21/10 - 2 horas
 
@@ -277,6 +289,10 @@ Fiz o contest [AtCoder Beginner Contest 228](https://atcoder.jp/contests/abc228)
 ## 21/11 - 2 horas
 
 Fiz o contest [AtCoder Regular Contest 129](https://atcoder.jp/contests/arc129) ao vivo.
+
+## 23/11 - 2 horas
+
+Simulei o contest Codeforces Global Round 17 no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/GR17
 
 ## 25/11 - 2 horas
 
