@@ -26,7 +26,7 @@ Os códigos dos problemas estão na pasta Codeforces/ozonTech20.
 ## 29/8 - 2 horas
 
 Fiz o contest [AtCoder Beginner Contest 216](https://atcoder.jp/contests/abc216) no atCoder em que passei 7 problemas, o 6 e 7 eram bem legais. No upsolving tentei passar o H, mas era bem difícil e não consegui entender direito.
-Os códigos dos problemas estão na pasta atCoder/beginner216. 
+Os códigos dos problemas estão na pasta atCoder/abc216. 
 
 ## 30/8 - 3 horas(2h30m + 30m de upsolving)
 
@@ -48,7 +48,7 @@ Fiz com meu time o contest [2016-2017 ACM-ICPC Southwestern European Regional Pr
 ## 4/9 - 2 horas
 
 Fiz o contest [AtCoder Beginner Contest 217](https://atcoder.jp/contests/abc217) no atCoder em que passei 7 problemas, o 6 e 7 eram bem legais. No upsolving li o editorial do H e vi que era Slope Trick, técnica que não domino muito e como não era uma aplicação direta do que conheço, não entendi muito bem como implementar. Preciso estudar mais Slope trick.
-Os códigos dos problemas estão na pasta atCoder/beginner217. 
+Os códigos dos problemas estão na pasta atCoder/abc217. 
 
 ## 5/9 - 3 horas(2h + 1h upsolving)
 
@@ -80,7 +80,7 @@ Fiz o contest [Codeforces Round #671 (Div. 2)](https://codeforces.com/contest/14
 
 ## 11/9 - 2 horas
 
-Fiz o contest [AtCoder Beginner Contest 218](https://atcoder.jp/contests/abc216) no atCoder(ao vivo!) em que passei 7 problemas, o 7 era bem legal, mas cometi muitos erros toscos que me custaram algumas posições. Os códigos dos problemas estão na pasta atCoder/beginner218. 
+Fiz o contest [AtCoder Beginner Contest 218](https://atcoder.jp/contests/abc216) no atCoder(ao vivo!) em que passei 7 problemas, o 7 era bem legal, mas cometi muitos erros toscos que me custaram algumas posições. Os códigos dos problemas estão na pasta atCoder/abc218. 
 
 ## 12/9 - 4 horas(2h30 + 1h30 de upsolving)
 
@@ -98,7 +98,7 @@ Fiz com meu time o contest [2020 ICPC Gran Premio de Mexico 3ra Fecha](https://c
 
 ## 18/9 - 3 horas(2h + 1h no upsolving)
 
-Fiz o contest [AtCoder Beginner Contest 219](https://atcoder.jp/contests/abc219) no atCoder(ao vivo!) em que passei 5 problemas. Fiz um monte de besteira na F e não passei ela na hora, mas passei no upsolving, e a G era bem difícil mesmo e só passei depois no upsolving pois vi o editorial. Os códigos estão na pasta atCoder/beginner219.
+Fiz o contest [AtCoder Beginner Contest 219](https://atcoder.jp/contests/abc219) no atCoder(ao vivo!) em que passei 5 problemas. Fiz um monte de besteira na F e não passei ela na hora, mas passei no upsolving, e a G era bem difícil mesmo e só passei depois no upsolving pois vi o editorial. Os códigos estão na pasta atCoder/abc219.
 
 ## 18/9 - 4 horas(2h + 2h de upsolving)
 
@@ -127,7 +127,7 @@ Fiz o contest [AtCoder Regular Contest 127](https://atcoder.jp/contests/arc127) 
 
 ## 26/9 - 3 horas(2h + 1h no upsolving)
 
-Fiz o contest [AtCoder Beginner Contest 220](https://atcoder.jp/contests/abc220) no atCoder(ao vivo!) em que passei 6 problemas. Fiz um monte de besteira na G e não passei ela na hora, mas passei no upsolving. Os códigos estão na pasta atCoder/beginner220.
+Fiz o contest [AtCoder Beginner Contest 220](https://atcoder.jp/contests/abc220) no atCoder(ao vivo!) em que passei 6 problemas. Fiz um monte de besteira na G e não passei ela na hora, mas passei no upsolving. Os códigos estão na pasta atCoder/abc220.
 
 ## 27/9 - 3 horas(2h30 + 1h30 de upsolving)
 
@@ -141,15 +141,27 @@ Fiz com meu time o contest [2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Re
 
 ## 2/10 - 2 horas
 
-Fiz o contest [AtCoder Beginner Contest 221](https://atcoder.jp/contests/abc221) no atCoder(ao vivo!) em que passei 6 problemas, mas não fui muit obem pois tomei muito penalty. Os códigos estão na pasta atCoder/beginner221.
+Fiz o contest [AtCoder Beginner Contest 221](https://atcoder.jp/contests/abc221) no atCoder(ao vivo!) em que passei 6 problemas, mas não fui muit obem pois tomei muito penalty. Os códigos estão na pasta atCoder/abc221.
+
+## 4/10 - 2 horas
+
+Simulei o contest [AtCoder Regular Contest 124](https://atcoder.jp/contests/arc124).
 
 ## 8/10 - 8 horas(5h + 3h de upsolving)
 
 Fiz com meu time o contest [2014, VII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/100460) no Gym do Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom até. Os códigos estão na pasta Team/samara14.	
 
+## 13/10 - 2 horas
+
+Simulei o contest [AtCoder Regular Contest 123](https://atcoder.jp/contests/arc123).
+
 ## 15/10 - 10 horas(5h + 5h de upsolving)
 
 Fiz com meu time o contest [2020-2021 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/group/5jHvDMn9r4/contest/349244) no grupo do MaratonUSP do Codeforces. Fizemos 13 problemas no total e nosso desempenho foi bom até e passei mais 2 problemas depois. Os códigos estão na pasta Team/pacific20-21.	
+
+## 26/10 - 2 horas
+
+Fiz o contest [AtCoder Regular Contest 128](https://atcoder.jp/contests/arc128) ao vivo.
 
 ## 22/10 - 10 horas(5h + 5h de upsolving)
 
@@ -158,6 +170,14 @@ Fiz com meu time o contest [2020 ACM-ICPC Nordic Collegiate Programming Contest]
 ## 24/10 - 10 horas(5h + 5h de upsolving)
 
 Fiz com o Morete o contest [2021 ICPC Gran Premio de Mexico 1ra Fecha](https://codeforces.com/gym/103274) no Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom(dado que fomos nós dois apenas) e passei mais 1 problema depois. Os códigos estão na pasta Team/mexico1f-21.	
+
+## 26/10 - 2 horas
+
+Simulei o contest [AtCoder Regular Contest 122](https://atcoder.jp/contests/arc122).
+
+## 28/10 - 2 horas
+
+Simulei o contest [AtCoder Regular Contest 121](https://atcoder.jp/contests/arc121).
 
 ## 28/10 - 7 horas(5h + 2h de upsolving)
 
@@ -180,13 +200,30 @@ Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Pri
 
 Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Prix of Krakow no opentrains. Também é um contest bastante difícil e nosso desempenho foi razoável, sendo que poderia ter sido bem melhor. Fizemos 6 problemas antes da prova e depois fiz passei mais 3, além de ter discutido e entendido a solução de outros 2. Os códigos estão na pasta Team/nanjing21
 
+## 21/11 - 2 horas
+
+Fiz o contest [AtCoder Regular Contest 129](https://atcoder.jp/contests/arc129) ao vivo.
+
 ## 26/11 - 10 horas(5h + 5h de upsolving)
 
 Fiz com meu time o contest [2020-2021 ICPC Southeastern European Regional Programming Contest (SEERC 2020) ](https://codeforces.com/gym/103102) no Codeforces. Era um contest bem difícil e passamos 5 problemas no contest e depois passei mais 4 no upsolving. Os códigos estão na pasta Team/seerc20
 
+## 30/11 - 2 horas
+
+Fiz o contest [AtCoder Regular Contest 130](https://atcoder.jp/contests/arc130) ao vivo.
+
+
+## 2/12 - 2 horas
+
+Simulei o contest [AtCoder Gran Contest 55](https://atcoder.jp/contests/agc55) em que passei somente 2 problemas e foi razoável.
+
 ## 3/12 - 10 horas(5h + 5h de upsolving)
 
 Fiz com meu time o contest [2014-2015 ACM-ICPC Southwestern Europe Regional Contest (SWERC 14) ](https://codeforces.com/gym/103102) no Codeforces. Era um contest mais tranquilo, sendo que passamos 9 problemas e poderíamos ter fechado a prova. Depois passei no upsolving esse problema extra. Os problemas estão na pasta Team/swerc14
+
+## 5/12 - 2 horas
+
+Fiz o contest [AtCoder Regular Contest 131](https://atcoder.jp/contests/arc131) ao vivo.
 
 
 Total: 234 horas
