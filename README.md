@@ -143,6 +143,11 @@ Fiz com meu time o contest [2020-2021 Winter Petrozavodsk Camp, Day 5: Almost Re
 
 Fiz o contest [AtCoder Beginner Contest 221](https://atcoder.jp/contests/abc221) no atCoder(ao vivo!) em que passei 6 problemas, mas não fui muit obem pois tomei muito penalty. Os códigos estão na pasta atCoder/abc221.
 
+## 3/10 - 2 horas
+
+Simulei o contest Codeforces Round #746 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/746div2
+
+
 ## 4/10 - 2 horas
 
 Simulei o contest [AtCoder Regular Contest 124](https://atcoder.jp/contests/arc124).
@@ -154,6 +159,11 @@ Fiz com meu time o contest [2014, VII Samara Regional Intercollegiate Programmin
 ## 9/10 - 2 horas
 
 Fiz o contest [AtCoder Beginner Contest 222](https://atcoder.jp/contests/abc222) no atCoder(ao vivo!).
+
+## 11/10 - 2 horas
+
+Simulei o contest Codeforces Round #747 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/747div2
+
 
 ## 13/10 - 2 horas
 
@@ -183,6 +193,10 @@ Simulei o contest [AtCoder Regular Contest 122](https://atcoder.jp/contests/arc1
 
 Fiz o contest [AtCoder Regular Contest 128](https://atcoder.jp/contests/arc128) ao vivo.
 
+## 27/10 - 2 horas
+
+Simulei o contest Codeforces Round #750 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/750div2
+
 ## 28/10 - 2 horas
 
 Simulei o contest [AtCoder Regular Contest 121](https://atcoder.jp/contests/arc121).
@@ -203,6 +217,15 @@ Fiz o contest [AtCoder Beginner Contest 225](https://atcoder.jp/contests/abc225)
 
 Fiz um mashup com o Nathan e o Gustavo[La Salle-Pui Ching Programming Challenge 培正喇沙編程挑戰賽 2017](https://codeforces.com/gym/101522/). Fizemos 11 problemas no total e nosso desempenho foi muito bom. Após a prova, discutimos as soluções com a outra galera que também fez a prova junto. Os códigos estão na pasta Team/la-salle-pui17.	
 
+## 8/11 - 2 horas
+
+Simulei o contest Codeforces Round #720 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/720div2
+
+
+## 11/11 - 2 horas
+
+Simulei o contest Codeforces Round #670 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/670div2
+
 ## 12/11 - 10 horas(5h + 5h de upsolving)
 
 Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Prix of Krakow no opentrains. É um contest bastante difícil e nosso desempenho foi razoável, sendo que poderia ter sido bem melhor. Fizemos 6 problemas antes da prova e depois passei mais 2, além de ter discutido e entendido a solução de outros 2. Os códigos estão na pasta Team/opencupKrakow
@@ -210,6 +233,22 @@ Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Pri
 ## 13/11 - 2 horas
 
 Fiz o contest [AtCoder Beginner Contest 227](https://atcoder.jp/contests/abc227) no atCoder.
+
+## 14/11 - 2 horas
+
+Simulei o contest Codeforces Round #669 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/669div2
+
+## 16/11 - 2 horas
+
+Simulei o contest Codeforces Round #675 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/675div2
+
+## 17/11 - 2 horas
+
+Simulei o contest Codeforces Round #663 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/663div2
+
+## 18/11 - 2 horas
+
+Simulei o contest Codeforces Round #660 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/660div2
 
 ## 19/11 - 10 horas(5h + 5h de upsolving)
 
@@ -222,6 +261,10 @@ Fiz o contest [AtCoder Beginner Contest 228](https://atcoder.jp/contests/abc228)
 ## 21/11 - 2 horas
 
 Fiz o contest [AtCoder Regular Contest 129](https://atcoder.jp/contests/arc129) ao vivo.
+
+## 25/11 - 2 horas
+
+Simulei o contest Codeforces Round #662 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/662div2
 
 ## 26/11 - 10 horas(5h + 5h de upsolving)
 
@@ -243,9 +286,17 @@ Fiz o contest [AtCoder Beginner Contest 229](https://atcoder.jp/contests/abc229)
 
 Fiz com meu time o contest [2014-2015 ACM-ICPC Southwestern Europe Regional Contest (SWERC 14) ](https://codeforces.com/gym/103102) no Codeforces. Era um contest mais tranquilo, sendo que passamos 9 problemas e poderíamos ter fechado a prova. Depois passei no upsolving esse problema extra. Os problemas estão na pasta Team/swerc14
 
+## 4/12 - 2 horas
+
+Simulei o contest Codeforces Round #757 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/757div2
+
+
 ## 5/12 - 2 horas
 
 Fiz o contest [AtCoder Regular Contest 131](https://atcoder.jp/contests/arc131) ao vivo.
 
+## 14/12 - 2 horas
+
+Simulei o contest Codeforces Round #657 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/657div2
 
 Total: 234 horas

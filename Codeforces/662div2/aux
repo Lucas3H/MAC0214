@@ -1,0 +1,109 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+#define fr(i, n) for(int i = 0; i < n; i++)
+#define frr(i, n) for(int i = 1; i <= n; i++)
+#define frm(i, n) for(int i = (int)n-1; i >= 0; i--)
+
+#define pb push_back
+#define f first
+#define s second
+
+typedef long long ll;
+typedef pair<int,int> pii;
+
+#define mem(v, k) memset(v, k, sizeof(v));
+#define db cout << "Debug" << endl;
+#define all(x) begin(x), end(x)
+#define dbg(x)  cout << #x << " = " << x << endl
+#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+#define random mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
+#define myrand(a, b) uniform_int_distribution<int>(a, b)(rng)
+
+#define mp make_pair
+#define pq priority_queue
+
+#define MAXN 1010
+#define MOD 1000000007
+#define INF 2000000000000000100
+
+struct SuffixArray {
+    string s;
+    int len = 1, n;
+    vector<int> ret, id, lcp, nx;
+    SuffixArray(string ss) {
+    	ss.pb('$');
+        s = ss, n = s.size();
+        id.resize(n), nx.resize(n), ret.resize(n);
+        
+        for (int i = 0; i < n; i++) ret[i] = i;
+        for (int i = 0; i < n; i++) id[i] = s[i];
+
+        while (len < n) {
+            auto comp = [&](int a, int b) {
+                if (id[a] != id[b]) return id[a] < id[b];
+                int l = -1, r = -1;
+                if (a + len < n) l = id[a + len];
+                if (b + len < n) r = id[b + len];
+                return l < r;
+            };
+            sort(ret.begin(), ret.end(), comp);
+            nx[ret[0]] = 0;
+            for (int i = 1; i < n; i++) {
+                nx[ret[i]] = nx[ret[i - 1]] + comp(ret[i - 1], ret[i]);
+            }
+            id = nx;
+            len <<= 1;
+        }
+    }
+};
+
+int solve(const string & s, string & t, const vector<int> dp, const suffixArray sa){
+	int lim = 0;
+	while(lim < s[ind].size() && lim < t.size() && s[lim] == t[lim]) lim++;
+
+	bool suf_is_small = false;
+    if(lim >= (int)s.size() - 1) suf_is_small = true;
+    else if(lim == t.size()) suf_is_small = true;
+    else{
+        int is = lim + 1, it = lim;
+        while(is < s.size() && it < t.size() && s[is] == t[it]) is++, it++;
+        if(is == s.size()) suf_is_small = true;
+        else if(it == t.size()) suf_is_small = false;
+        else suf_is_small = s[is] < t[it];
+    }
+}
+
+suffixArray sa[MAXN];
+vector<int> dp[MAXN];
+int n;
+string s[MAXN];
+
+signed main(){
+	fastio;
+	cin >> n;
+	fr(i, n) cin >> s[i];
+	fr(i, n) sa[i] = suffixArray(s[i]);
+ 
+
+	dp[0].resize(s[0].size() + 1);
+	for(auto & x: dp[0]) x = 1;
+
+	frr(i, n - 1){
+		dp[i].resize(s[i].size() + 1, 0);
+		
+		string aux = s[i];
+		dp[i][s[i].size()] = solve(s[i - 1], aux);
+		char cur = aux.back();
+		aux.pop_back();
+		frm(j, s[i].size()) {
+			dp[i][j] = solve(s[i - 1], aux, dp[i - 1]);
+			if(j) swap(cur, aux[j - 1]);
+		}
+	}
+
+	ll ans = 0;
+	for(auto x : dp[n - 1]) ans = (ans + x) % MOD;
+	cout << ans << endl;
+}
