@@ -152,6 +152,10 @@ Simulei o contest Codeforces Round #746 (Div. 2) no Codeforces de 2 horas. Os c�
 
 Simulei o contest [AtCoder Regular Contest 124](https://atcoder.jp/contests/arc124).
 
+## 5/10 - 2 horas
+
+Simulei o contest Codeforces Round #451 (Div. 1) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/745div1
+
 ## 8/10 - 8 horas(5h + 3h de upsolving)
 
 Fiz com meu time o contest [2014, VII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/100460) no Gym do Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom até. Os códigos estão na pasta Team/samara14.	
@@ -173,13 +177,18 @@ Simulei o contest [AtCoder Regular Contest 123](https://atcoder.jp/contests/arc1
 
 Fiz com meu time o contest [2020-2021 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/group/5jHvDMn9r4/contest/349244) no grupo do MaratonUSP do Codeforces. Fizemos 13 problemas no total e nosso desempenho foi bom até e passei mais 2 problemas depois. Os códigos estão na pasta Team/pacific20-21.	
 
-## 23/10 - 2 horas
+## 21/10 - 2 horas
 
-Fiz o contest [AtCoder Beginner Contest 224](https://atcoder.jp/contests/abc224) no atCoder(ao vivo!).
+Simulei o contest Codeforces Round #751 (Div. 1) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/751div1
 
 ## 22/10 - 10 horas(5h + 5h de upsolving)
 
 Fiz com meu time o contest [2020 ACM-ICPC Nordic Collegiate Programming Contest](https://codeforces.com/group/5jHvDMn9r4/contest/350354/standings/groupmates/true) no grupo do MaratonUSP do Codeforces. Fizemos 8 problemas no total e nosso desempenho foi mediano e passei mais 2 problemas depois. Os códigos estão na pasta Team/nordic20.	
+
+## 23/10 - 2 horas
+
+Fiz o contest [AtCoder Beginner Contest 224](https://atcoder.jp/contests/abc224) no atCoder(ao vivo!).
+
 
 ## 24/10 - 10 horas(5h + 5h de upsolving)
 
@@ -221,6 +230,9 @@ Fiz um mashup com o Nathan e o Gustavo[La Salle-Pui Ching Programming Challenge 
 
 Simulei o contest Codeforces Round #720 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/720div2
 
+## 10/11 - 2 horas
+
+Simulei o contest Codeforces Round #752 (Div. 1) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/752div1
 
 ## 11/11 - 2 horas
 
@@ -237,6 +249,10 @@ Fiz o contest [AtCoder Beginner Contest 227](https://atcoder.jp/contests/abc227)
 ## 14/11 - 2 horas
 
 Simulei o contest Codeforces Round #669 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/669div2
+
+## 15/11 - 2 horas
+
+Simulei o contest Codeforces Round #755 (Div. 1) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/755div1
 
 ## 16/11 - 2 horas
 
@@ -294,6 +310,10 @@ Simulei o contest Codeforces Round #757 (Div. 2) no Codeforces de 2 horas. Os c�
 ## 5/12 - 2 horas
 
 Fiz o contest [AtCoder Regular Contest 131](https://atcoder.jp/contests/arc131) ao vivo.
+
+## 10/10 - 2 horas
+
+Simulei o contest Codeforces Round 4051 (Div. 1) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/740div1
 
 ## 14/12 - 2 horas
 
