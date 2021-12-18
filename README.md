@@ -151,6 +151,10 @@ Simulei o contest [AtCoder Regular Contest 124](https://atcoder.jp/contests/arc1
 
 Fiz com meu time o contest [2014, VII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/100460) no Gym do Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom até. Os códigos estão na pasta Team/samara14.	
 
+## 9/10 - 2 horas
+
+Fiz o contest [AtCoder Beginner Contest 222](https://atcoder.jp/contests/abc222) no atCoder(ao vivo!).
+
 ## 13/10 - 2 horas
 
 Simulei o contest [AtCoder Regular Contest 123](https://atcoder.jp/contests/arc123).
@@ -159,9 +163,9 @@ Simulei o contest [AtCoder Regular Contest 123](https://atcoder.jp/contests/arc1
 
 Fiz com meu time o contest [2020-2021 ACM-ICPC Pacific Northwest Regional Contest](https://codeforces.com/group/5jHvDMn9r4/contest/349244) no grupo do MaratonUSP do Codeforces. Fizemos 13 problemas no total e nosso desempenho foi bom até e passei mais 2 problemas depois. Os códigos estão na pasta Team/pacific20-21.	
 
-## 26/10 - 2 horas
+## 23/10 - 2 horas
 
-Fiz o contest [AtCoder Regular Contest 128](https://atcoder.jp/contests/arc128) ao vivo.
+Fiz o contest [AtCoder Beginner Contest 224](https://atcoder.jp/contests/abc224) no atCoder(ao vivo!).
 
 ## 22/10 - 10 horas(5h + 5h de upsolving)
 
@@ -171,9 +175,13 @@ Fiz com meu time o contest [2020 ACM-ICPC Nordic Collegiate Programming Contest]
 
 Fiz com o Morete o contest [2021 ICPC Gran Premio de Mexico 1ra Fecha](https://codeforces.com/gym/103274) no Codeforces. Fizemos 10 problemas no total e nosso desempenho foi bom(dado que fomos nós dois apenas) e passei mais 1 problema depois. Os códigos estão na pasta Team/mexico1f-21.	
 
-## 26/10 - 2 horas
+## 25/10 - 2 horas
 
 Simulei o contest [AtCoder Regular Contest 122](https://atcoder.jp/contests/arc122).
+
+## 26/10 - 2 horas
+
+Fiz o contest [AtCoder Regular Contest 128](https://atcoder.jp/contests/arc128) ao vivo.
 
 ## 28/10 - 2 horas
 
@@ -187,6 +195,9 @@ Solei o contest [2021 ICPC Gran Premio de Mexico 2da Fecha](https://codeforces.c
 
 Fiz com meu time a Subregional de 2021. Fizemos 8 problemas no total e nosso desempenho foi mediano(podia ser muito melhor) e passei mais 1 problema depois. Ademais, nós discutimos as soluções de quase todos os outros problemas. Os códigos estão na pasta Team/subreg21.	
 
+## 31/10 - 2 horas
+
+Fiz o contest [AtCoder Beginner Contest 225](https://atcoder.jp/contests/abc225) no atCoder.
 
 ## 5/11 - 7 horas(5h + 2h de upsolving)
 
@@ -196,9 +207,17 @@ Fiz um mashup com o Nathan e o Gustavo[La Salle-Pui Ching Programming Challenge 
 
 Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Prix of Krakow no opentrains. É um contest bastante difícil e nosso desempenho foi razoável, sendo que poderia ter sido bem melhor. Fizemos 6 problemas antes da prova e depois passei mais 2, além de ter discutido e entendido a solução de outros 2. Os códigos estão na pasta Team/opencupKrakow
 
+## 13/11 - 2 horas
+
+Fiz o contest [AtCoder Beginner Contest 227](https://atcoder.jp/contests/abc227) no atCoder.
+
 ## 19/11 - 10 horas(5h + 5h de upsolving)
 
 Fiz com o meu time o contest XXI Open Cup named after E.V. Pankratiev. Grand Prix of Krakow no opentrains. Também é um contest bastante difícil e nosso desempenho foi razoável, sendo que poderia ter sido bem melhor. Fizemos 6 problemas antes da prova e depois fiz passei mais 3, além de ter discutido e entendido a solução de outros 2. Os códigos estão na pasta Team/nanjing21
+
+## 20/11 - 2 horas
+
+Fiz o contest [AtCoder Beginner Contest 228](https://atcoder.jp/contests/abc228) no atCoder.
 
 ## 21/11 - 2 horas
 
@@ -212,10 +231,13 @@ Fiz com meu time o contest [2020-2021 ICPC Southeastern European Regional Progra
 
 Fiz o contest [AtCoder Regular Contest 130](https://atcoder.jp/contests/arc130) ao vivo.
 
+## 1/12 - 2 horas
+
+Simulei o contest [AtCoder Gran Contest 55](https://atcoder.jp/contests/agc55) em que passei somente 2 problemas e foi razoável.
 
 ## 2/12 - 2 horas
 
-Simulei o contest [AtCoder Gran Contest 55](https://atcoder.jp/contests/agc55) em que passei somente 2 problemas e foi razoável.
+Fiz o contest [AtCoder Beginner Contest 229](https://atcoder.jp/contests/abc229) no atCoder.
 
 ## 3/12 - 10 horas(5h + 5h de upsolving)
 
