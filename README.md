@@ -90,8 +90,6 @@ Fiz o contest [Codeforces Global Round 16](https://codeforces.com/contest/1375) 
 
 Fiz o contest [AtCoder Regular Contest 125](https://atcoder.jp/contests/arc125) no atCoder em que passei 4 problemas e passei mais 1 no upsolving(era muito bom, usava min-cut de um jeito bem esperto). Os códigos dos problemas estão na pasta atCoder/arc125. 
 
-Metade de setembro: 49 horas
-
 ## 17/9 - 8 horas(5h + 3h de upsolving)
 
 Fiz com meu time o contest [2020 ICPC Gran Premio de Mexico 3ra Fecha](https://codeforces.com/gym/102890) no Gym do Codeforces. Nosso desempenho foi razoável, sendo que nosso penalty foi bom. Passei os problemas C, D, K e M. E no upsolving passei o problema F, que era uma porcaria, pois essencialmente era deixar o brute rodando e enviar uma tabelona. Para rodar o brute, codei uns scripts em bash para paralelizar isso e ser mais rápido. Os código estão na pasta Team/mexico2020.
@@ -351,4 +349,4 @@ Simulei o contest Codeforces Round 4051 (Div. 1) no Codeforces de 2 horas. Os c�
 
 Simulei o contest Codeforces Round #657 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/657div2
 
-Total: 234 horas
+Total: 314 horas
