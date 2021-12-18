@@ -108,7 +108,7 @@ Fiz o contest [Codeforces Round #743 (Div. 1)](https://codeforces.com/contest/15
 
 Fiz o contest [AtCoder Regular Contest 126](https://atcoder.jp/contests/arc126) no atCoder(ao vivo!) em que passei 4 problemas. Os códigos dos problemas estão na pasta atCoder/arc126. 
 
-## 20/9 - 2 horas(2h)
+## 20/9 - 2 horas
 
 Fiz o contest [Educational Codeforces Round 114 (Rated for Div. 2)](https://codeforces.com/contest/1574) no Codeforces em que passei 5 problemas, sendo que 1 deles era bem difícil. Dava para ter tomado menos penalty, mas no geral fui bem.
 Os códigos dos problemas estão na pasta Codeforces/114edu. 
@@ -189,6 +189,10 @@ Fiz com meu time o contest [2020-2021 ACM-ICPC Pacific Northwest Regional Contes
 
 Simulei o contest Codeforces Round #749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/TechnoCupR1
 
+## 19/10 - 2 horas
+
+Fiz o contest Educational Codeforces Round 115 (Rated for Div. 2) no Codeforces. Os códigos dos problemas estão na pasta Codeforces/115edu. 
+
 ## 21/10 - 2 horas
 
 Simulei o contest Codeforces Round #751 (Div. 1) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/751div1
@@ -225,6 +229,10 @@ Simulei o contest [AtCoder Regular Contest 121](https://atcoder.jp/contests/arc1
 ## 28/10 - 7 horas(5h + 2h de upsolving)
 
 Solei o contest [2021 ICPC Gran Premio de Mexico 2da Fecha](https://codeforces.com/gym/103306) no Codeforces. Passei 9 problemas e meu desempenho foi muito bom, dado que fiz sozinho, e depois passei mais 1 no upsolving.
+
+## 29/10 - 2 horas
+
+Fiz o contest Educational Codeforces Round 116 (Rated for Div. 2) no Codeforces. Os códigos dos problemas estão na pasta Codeforces/116edu. 
 
 ## 30/10 - 10 horas(5h + 5h de upsolving)
 
@@ -294,6 +302,10 @@ Fiz o contest [AtCoder Regular Contest 129](https://atcoder.jp/contests/arc129) 
 
 Simulei o contest Codeforces Global Round 17 no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/GR17
 
+## 24/12 - 2 horas
+
+Fiz o contest Educational Codeforces Round 117 (Rated for Div. 2) no Codeforces. Os códigos dos problemas estão na pasta Codeforces/117edu. 
+
 ## 25/11 - 2 horas
 
 Simulei o contest Codeforces Round #662 (Div. 2) no Codeforces de 2 horas. Os códigos dos problemas estão na pasta Codeforces/662div2
@@ -326,6 +338,10 @@ Simulei o contest Codeforces Round #757 (Div. 2) no Codeforces de 2 horas. Os c�
 ## 5/12 - 2 horas
 
 Fiz o contest [AtCoder Regular Contest 131](https://atcoder.jp/contests/arc131) ao vivo.
+
+## 7/12 - 2 horas
+
+Fiz o contest Educational Codeforces Round 92 (Rated for Div. 2) no Codeforces. Os códigos dos problemas estão na pasta Codeforces/92edu. 
 
 ## 10/10 - 2 horas
 
